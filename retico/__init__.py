@@ -4,4 +4,4 @@ import retico.aux as aux
 
 from retico_core.network import *
 
-from version import __version__
+from retico.version import __version__
