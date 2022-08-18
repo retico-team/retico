@@ -24,3 +24,5 @@ from retico_core.text import (
 from retico_googleasr import GoogleASRModule
 
 from retico_googletts import GoogleTTSModule
+
+from retico_wav2vecasr import Wav2VecASRModule

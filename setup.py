@@ -35,6 +35,7 @@ config = {
         "retico-core~=0.2",
         "retico-googleasr~=0.1",
         "retico-googletts~=0.1",
+        "retico-wav2vecasr~=0.1",
     ],
     "packages": find_packages(),
     "name": "retico",
