@@ -26,3 +26,7 @@ from retico_googleasr import GoogleASRModule
 from retico_googletts import GoogleTTSModule
 
 from retico_wav2vecasr import Wav2VecASRModule
+
+from retico_speechbraintts import SpeechBrainTTSModule
+
+from retico_hftranslate import HFTranslateModule
