@@ -11,7 +11,7 @@ from retico_core.audio import (
     AudioDispatcherModule,
     AudioRecorderModule,
 )
-from retico_core.debug import DebugModule, CallbackModule
+from retico_core.debug import DebugModule, CallbackModule, TextPrinterModule
 from retico_core.dialogue import DialogueActRecorderModule, DialogueActTriggerModule
 from retico_core.text import (
     TextRecorderModule,
