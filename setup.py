@@ -32,7 +32,7 @@ config = {
     "python_requires": ">=3.6, <4",
     "version": __version__,
     "install_requires": [
-        "retico-core>=0.2.9",
+        "retico-core>=0.2.10",
         "retico-googleasr>=0.1.5",
         "retico-googletts>=0.1.3",
         "retico-hftranslate>=0.1.2",

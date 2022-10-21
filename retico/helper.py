@@ -7,3 +7,5 @@ from retico_speechbraintts import SpeechBrainTTS
 from retico_hftranslate import HFTranslate
 
 from retico_core.text import get_text_increment
+
+from retico_core.audio import show_audio_devices
