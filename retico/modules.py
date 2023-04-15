@@ -30,3 +30,5 @@ from retico_wav2vecasr import Wav2VecASRModule
 from retico_speechbraintts import SpeechBrainTTSModule
 
 from retico_hftranslate import HFTranslateModule
+
+from retico_chatgpt import ChatGPTDialogueModule

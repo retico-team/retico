@@ -38,6 +38,7 @@ config = {
         "retico-hftranslate>=0.1.2",
         "retico-speechbraintts>=0.1.3",
         "retico-wav2vecasr>=0.1.6",
+        "retico-chatgpt>=0.0.1",
     ],
     "packages": find_packages(),
     "name": "retico",
