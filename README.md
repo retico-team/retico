@@ -61,7 +61,7 @@ stop(m1)
     - A module that transmits audio by splitting it up into streamable packets.
   - AudioRecorderModule
     - A module that saves incoming audio to disk.
-- [await_contingent_iu](https://github.com/retico-team/retico-core/blob/main/retico_core/await_contingent_iu.py)
+- [await_contingent_iu](https://github.com/retico-team/retico-core/blob/main/retico_core/await_contigent_iu.py)
   - AwaitContingentIUsModule
     - Wait for all required IUs to arrive before proceeding.
 - [debug](https://github.com/retico-team/retico-core/blob/main/retico_core/debug.py)
