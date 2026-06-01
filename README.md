@@ -359,6 +359,12 @@ stop(m1)
 
 ---
 
+### [retico-rfdetr](https://github.com/retico-team/retico-rfdetr)
+- [RFDETR](https://github.com/retico-team/retico-rfdetr/blob/main/retico_rfdetr/rfdetr.py)
+  - An object detection module using RF-DETR.
+
+---
+
 ### [retico-rtdetr](https://github.com/retico-team/retico-rtdetr)
 - [RTDETR](https://github.com/retico-team/retico-rtdetr/blob/main/retico_rtdetr/rtdetr.py)
   - An object detection module using RT-DETR.
