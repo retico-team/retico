@@ -378,7 +378,9 @@ stop(m1)
 - [sam](https://github.com/retico-team/retico-sam/blob/main/retico_sam/sam.py)
   - SAMModule
     - An object detection module using SAM.
-
+- [fastsam](https://github.com/retico-team/retico-sam/blob/main/retico_sam/fastsam.py)
+  - FastSAMModule
+    - An object detection module using a faster implementation of SAM.
 ---
 
 ### [retico-sceneGraph](https://github.com/retico-team/retico-sceneGraph)
