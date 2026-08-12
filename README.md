@@ -309,6 +309,11 @@ stop(m1)
   - Module for extracting visual features from images.
 ---
 
+### [retico-ollama] (https://github.com/retico-team/retico-ollama)
+- [OllamaModule](https://github.com/retico-team/retico-ollama/blob/main/retico_ollama/ollama.py)
+  - A module generating LLM responses by a locally running Ollama.
+---
+
 ### [retico-opendialdm](https://github.com/retico-team/retico-opendialdm)
 - [OpenDialModule](https://github.com/retico-team/retico-opendialdm/blob/main/retico_opendialdm/dm.py)
   - A module providing dialogue management provided by OpenDial.
